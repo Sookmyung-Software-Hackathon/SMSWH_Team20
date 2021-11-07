@@ -47,16 +47,16 @@
 - Front_End
     - React
 - react modules
-  ![KakaoTalk_20211107_190750304](https://user-images.githubusercontent.com/65210736/140650517-6e956d38-dbc0-416c-9f37-9264c3a0a826.png)
+  ![image](https://user-images.githubusercontent.com/65210736/140650670-0112c380-d312-46bd-a2c9-3858b96df1fe.png)
+
 - Back_End
     - Mysql, amazon s3, amazon ec2
         - database ERD
-        
-        ![erd 모델.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/56bca90c-047c-425d-92d9-9c6397ce43ac/erd_모델.png)
+           ![image](https://user-images.githubusercontent.com/65210736/140650659-e9831e03-51c1-4377-a38e-bbfb167a5afb.png)
+
         
     - nodejs
-        - npm modules
-            
+        - npm modules 
             ![node module.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/46495c79-dc85-4aee-b955-adbd1a837643/node_module.png)
 
 ## 🔶기대 효과
