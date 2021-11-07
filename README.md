@@ -57,7 +57,8 @@
         
     - nodejs
         - npm modules 
-            ![node module.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/46495c79-dc85-4aee-b955-adbd1a837643/node_module.png)
+            ![image](https://user-images.githubusercontent.com/65210736/140650706-1910ee5c-9fe6-4e89-8dcf-452bc9439d0a.png)
+
 
 ## 🔶기대 효과
 
